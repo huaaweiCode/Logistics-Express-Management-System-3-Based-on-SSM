@@ -1,5 +1,5 @@
+# 物流/快递管理系统3
 
-# 物流快递管理系统3
 
 
 ## 1、项目介绍
@@ -27,31 +27,31 @@
 
 ### 4.1 登录
 
-![登录](https://img-blog.csdnimg.cn/img_convert/26356a5655826caae18150772d5229ea.jpeg)
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105566.jpg)
 
 ### 4.2 其它模块
 
-![物品信息管理](https://img-blog.csdnimg.cn/img_convert/4aa856fa803a4987533a6fafe61e1774.jpeg)
+![物品信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242105171.jpg)
 
-![入库信息管理](https://img-blog.csdnimg.cn/img_convert/cd7378f7e42db9a0a602ee67f706a3ab.jpeg)
+![入库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106694.jpg)
 
-![出库信息管理](https://img-blog.csdnimg.cn/img_convert/57eb3b5d12f44f014194a66cfeef38a7.jpeg)
+![出库信息管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106366.jpg)
 
-![顾客信息查看](https://img-blog.csdnimg.cn/img_convert/f85f35755df8d2a22de1a7590aa8a156.jpeg)
+![顾客信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106835.jpg)
 
-![供应商管理](https://img-blog.csdnimg.cn/img_convert/28282e09c6092300b7032e5be3fc7e95.jpeg)
+![供应商管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106907.jpg)
 
-![仓库信息查看](https://img-blog.csdnimg.cn/img_convert/07267ff07943caff9adfe0d6dbc86516.jpeg)
+![仓库信息查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106203.jpg)
 
-![公告管理](https://img-blog.csdnimg.cn/img_convert/035c08bf8eec0b8b7f605422ca6cc8d9.jpeg)
+![公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106475.jpg)
 
-![文档目录](https://img-blog.csdnimg.cn/img_convert/6d289ac76eb62b14540cd0c5de60f049.jpeg)
+### 4.3 文档目录
 
+![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309242106545.jpg)
 
-### 获取方式&视频演示
+## 5、视频演示
 
-下方扫一下，回复关键词：物流
+[点击播放视频，视频位于文章最后](输入链接)
 
-![gitee](https://img-blog.csdnimg.cn/img_convert/3c0bbf7d2fefe3e7d964029da0e0223d.png)
 
 
